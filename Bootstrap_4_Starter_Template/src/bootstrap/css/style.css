@@ -1,0 +1,13 @@
+/* Your custom styles */
+.breadcrumb-item + .breadcrumb-item::before {
+
+    color: red;
+    content: "/";
+
+}
+.breadcrumb{
+    color:white;
+}
+.breadcrumb{
+    background-color: lightgreen;
+}
